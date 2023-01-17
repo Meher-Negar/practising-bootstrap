@@ -1,0 +1,68 @@
+section{
+	background: darkgray;
+	border: 1px solid black;
+	width: 50vw;
+	display: flex;
+}
+main{
+	background: darkseagreen;
+	color: #fff;
+	flex: 3;
+
+}
+aside{
+	background: darkslategray;
+	color: #fff;
+	flex: 1;
+}
+
+div.form{
+	width: 600px;
+	background: darkgray;
+	border: 3px solid black;
+}
+.form-control{
+	display: flex;
+}
+.form-control input{
+	flex: 1;
+}
+
+.container{
+	background-color: azure;
+	height: 60vh;
+	border: 3px solid #999;
+	display: flex;
+	justify-content: flex-evently;
+	align-items: flex-end;
+}
+.child-1{
+	min-height: 100px;
+	width: 300px;
+	background-color: 
+	cadetblue;
+}
+.child-2{
+	min-height: 150px;
+	width: 300px;
+	background-color: 
+	sandybrown;}
+
+	.child-3{
+	min-height: 200px;
+	width: 300px;
+	background-color: 
+	rebeccapurple;
+}
+.child-4{
+	min-height: 250px;
+	width: 300px;
+	background-color: 
+	orangered;
+}
+.child-5{
+	min-height: 300px;
+	width: 300px;
+	background-color: 
+	goldenrod;
+}
